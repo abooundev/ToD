@@ -4,6 +4,7 @@
 
   * [대화 인터페이스, 챗봇, 그리고 자연어처리(서정연 교수)](https://sigai.or.kr/workshop/AI-for-everyone/2017/slides/대화-인터페이스-구현에-관련된-자연어-처리와-인공지능-기술-이야기.pdf)
   * https://www.cs.princeton.edu/courses/archive/spring20/cos598C/lectures/lec16-task-oriented-dialogue.pdf
+  * https://www.slideshare.net/YunNungVivianChen/deep-learning-for-dialogue-systems
 
 * Survey
 
