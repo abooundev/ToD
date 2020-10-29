@@ -45,3 +45,29 @@
 * dialogue generation
 
 * slot filling
+
+
+
+
+* Domain ontology: a set of knowledge structures representing the kinds of intentions the system can extract from user sentences. 
+* Domain: a domain consists of a collection of slots. 
+* Slot: each of slot can take a set of possible values.
+
+도메인 온톨로지는 발화 문장에서 추출할 수 있는 의도에 대한 구조적인 표현이다.
+
+The domain ontology defines the set of actions our model can take.
+
+도메인 온톨로지는 모델이 취할 수 있는 행동들을 정의하고 있다.
+
+
+
+https://sigport.org/sites/default/files/docs/MingHsiangSu-IALP%202016_3.pdf
+
+https://web.stanford.edu/~jurafsky/slp3/24.pdf
+
+https://sites.google.com/view/deepdial/
+
+https://www.csie.ntu.edu.tw/~yvchen/doc/COLING18_Tutorial.pdf
+
+https://speakerdeck.com/scatterlab/towards-universal-dialog-state-tracking?slide=7
+
