@@ -16,7 +16,11 @@
 
     * CHAPTER 24 Dialog Systems and Chatbots [[note](https://web.stanford.edu/~jurafsky/slp3/24.pdf)]
 
-      
+  * Natural Language Processing 
+
+    * State tracking in DM [[lecture](https://www.coursera.org/lecture/language-processing/state-tracking-in-dm-s9zRt)]
+
+    
 
 * Survey
 
@@ -47,10 +51,12 @@
     * https://arxiv.org/pdf/2005.05298.pdf
 
 * **Dialog State Tracking**
+
   * Towards Universal **Dialog State Tracking**
     * https://speakerdeck.com/scatterlab/towards-universal-dialog-state-tracking?slide=7
   * **Dialog State Tracking** and **Action Selection** Using Deep Learning Mechanism for Interview Coaching
     * [https://sigport.org/sites/default/files/docs/MingHsiangSu-IALP%202016_3.pdf](https://sigport.org/sites/default/files/docs/MingHsiangSu-IALP 2016_3.pdf)
+
 * Dataset
 
   * CrossWOZ
@@ -83,8 +89,19 @@ The domain ontology defines the set of actions our model can take.
 
 
 
+### Structure
+
+<img src="https://image.slidesharecdn.com/170428hkust-170430013715/95/deep-learning-for-dialogue-systems-12-638.jpg?cb=1493516273">
+
+출처: https://www2.slideshare.net/YunNungVivianChen/deep-learning-for-dialogue-systems
+
+<img src="https://www.researchgate.net/profile/Trung_Bui/publication/302567766/figure/fig1/AS:360041279442952@1462851938643/Overview-of-the-dialog-state-tracking-system.png" alt="Overview of the dialog state tracking system.  " style="zoom: 80%;" />
+
+출처: [Robust Dialog State Tracking for Large Ontologies](https://www.researchgate.net/publication/302567766_Robust_Dialog_State_Tracking_for_Large_Ontologies)
+
+![Efficient Dialogue State Tracking by Selectively Overwriting Memory |  Semantic Scholar](https://d3i71xaburhd42.cloudfront.net/836bf662a067752d4e7323403ac6c04cde8dbd90/1-Figure1-1.png)
 
 
 
-
+출처: [Kim, S., Yang, S., Kim, G., & Lee, S. W. (2019). Efficient dialogue state tracking by selectively overwriting memory. *arXiv preprint arXiv:1911.03906*.](https://arxiv.org/pdf/1911.03906.pdf)
 
