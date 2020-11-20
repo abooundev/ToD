@@ -99,9 +99,8 @@ The domain ontology defines the set of actions our model can take.
 
 출처: [Robust Dialog State Tracking for Large Ontologies](https://www.researchgate.net/publication/302567766_Robust_Dialog_State_Tracking_for_Large_Ontologies)
 
-![Efficient Dialogue State Tracking by Selectively Overwriting Memory](https://d3i71xaburhd42.cloudfront.net/836bf662a067752d4e7323403ac6c04cde8dbd90/1-Figure1-1.png)
 
-
+![image](https://user-images.githubusercontent.com/65707664/99775648-f99c1300-2b52-11eb-84bf-dddd18068d2a.png)
 
 출처: [Kim, S., Yang, S., Kim, G., & Lee, S. W. (2019). Efficient dialogue state tracking by selectively overwriting memory. *arXiv preprint arXiv:1911.03906*.](https://arxiv.org/pdf/1911.03906.pdf)
 
