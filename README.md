@@ -19,7 +19,8 @@
   * Natural Language Processing 
 
     * State tracking in DM [[lecture](https://www.coursera.org/lecture/language-processing/state-tracking-in-dm-s9zRt)]
-
+  
+  * [우리말 자연어 처리 기술](https://www.korean.go.kr/nkview/nklife/2017_4/27_0404.pdf)
     
 
 * Survey
