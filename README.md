@@ -105,3 +105,6 @@ The domain ontology defines the set of actions our model can take.
 
 출처: [Kim, S., Yang, S., Kim, G., & Lee, S. W. (2019). Efficient dialogue state tracking by selectively overwriting memory. *arXiv preprint arXiv:1911.03906*.](https://arxiv.org/pdf/1911.03906.pdf)
 
+
+### 참고
+- What makes a good conversation? http://www.abigailsee.com/2019/08/13/what-makes-a-good-conversation.html
