@@ -1,8 +1,8 @@
-슬롯 태깅
+**슬롯 태깅**
 
 현재 상태에서 필요한 정보를 엔티티 태깅을 통해 발화로부터 추출하는 프로세스
 
-슬롯 필링(Slot Filling)
+**슬롯 필링(Slot Filling)**
 
 슬롯 태깅 결과, 유저 프로필 정보, 발화 히스토리(컨텍스트) 등을 전부 참조해서 최종 액션을 수행하기 위해 필요한 정보를 채워 넣는 과정
 
@@ -15,6 +15,8 @@
 발화에 포함된 태스크와 관련된 의미 있는 정보
 
 
+
+# ch24
 
 All modern task-based dialogue systems, whether the simple GUS architecture dialogue state we describe here, or the more sophisticated dialogue state architectures we turn to frame in the following section, are based around frames. 
 
@@ -40,7 +42,7 @@ The second is **user intent determination**: what general task or goal is the us
 
 
 
-24.4 The Dialogue-State Architecture 
+### 24.4 The Dialogue-State Architecture 
 
 Modern research systems for **task-based dialogue** are based on a more sophisticated version of the **frame-based architecture** called the **dialogue-state** or **belief-state architecture**. Figure 24.12 shows the **six components** of a typical dialogue-state system. The speech recognition and synthesis components deal with spoken language processing; we’ll return to them in Chapter 26. 
 
@@ -53,4 +55,6 @@ The **dialogue state tracker** maintains the **current state of the dialogue** (
 The **dialogue policy** decides what the system should do or say next. The dialogue policy in GUS was simple: **ask questions until the frame was full and then report back the results of some database query.** But a more sophisticated dialogue policy can help a system **decide when to answer the user’s questions, when to instead ask the user a clarification question, when to make a suggestion, and so on.** 
 
 Finally, dialogue state systems have a natural language generation component. In GUS, the sentences that the generator produced were all from pre-written templates. But a more sophisticated generation component can condition on the exact context to produce turns that seem much more natural. As of the time of this writing, most commercial system are architectural hybrids, based on GUS architecture augmented with some dialogue-state components, but there are a wide variety of dialogue-state systems being developed in research labs.
+
+
 
