@@ -14,7 +14,9 @@
 
   * Stanford  Speech and Language Processing (3rd ed. draft) [[homepage](https://web.stanford.edu/~jurafsky/slp3/)]
 
-    * CHAPTER 24 Dialog Systems and Chatbots [[note](https://web.stanford.edu/~jurafsky/slp3/24.pdf)]
+    * CHAPTER 24 Dialog Systems and Chatbots [[note](https://web.stanford.edu/~jurafsky/slp3/24.pdf)], [[slide](https://web.stanford.edu/~jurafsky/slp3/slides/24_Dialogue_Jan_18_2021.pdf)]
+
+
 
   * Natural Language Processing 
 
